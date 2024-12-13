@@ -1,12 +1,7 @@
 # Robotis Manipulator
 
-
-[![kinetic-devel Status](https://github.com/ROBOTIS-GIT/robotis_manipulator/workflows/kinetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/robotis_manipulator/tree/kinetic-devel)
-[![melodic-devel Status](https://github.com/ROBOTIS-GIT/robotis_manipulator/workflows/melodic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/robotis_manipulator/tree/melodic-devel)
-[![noetic-devel Status](https://github.com/ROBOTIS-GIT/robotis_manipulator/workflows/noetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/robotis_manipulator/tree/noetic-devel)
-[![dashing-devel Status](https://github.com/ROBOTIS-GIT/robotis_manipulator/workflows/dashing-devel/badge.svg)](https://github.com/ROBOTIS-GIT/robotis_manipulator/tree/dashing-devel)
-[![foxy-devel Status](https://github.com/ROBOTIS-GIT/robotis_manipulator/workflows/foxy-devel/badge.svg)](https://github.com/ROBOTIS-GIT/robotis_manipulator/tree/foxy-devel)
-[![galactic-devel Status](https://github.com/ROBOTIS-GIT/robotis_manipulator/workflows/galactic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/robotis_manipulator/tree/galactic-devel)
+- Active Branches: noetic, main
+- Legacy Branches: *-devel
 
 ## ROBOTIS e-Manual for Robotis Manipulator
 - [ROBOTIS e-Manual for Robotis Manipulator and OpenManipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator/)
